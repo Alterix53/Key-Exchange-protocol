@@ -1,0 +1,1 @@
+Là giao thức trao đổi khóa an toàn có sử dụng Nonce (như full public key exchange) nhưng có socket qua lại giữa Alice và Bob
